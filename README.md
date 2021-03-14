@@ -1,0 +1,2 @@
+# emerytura
+ćwiczenie 1 
